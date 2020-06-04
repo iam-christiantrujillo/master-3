@@ -1,0 +1,152 @@
+header {
+    width: 100%;
+    background-color: aliceblue;
+    padding: 5px 10px;
+    display: inline-block;
+    vertical-align: center;
+    margin: 0px;
+}
+
+#logo{
+    padding: 30px 30px 0px 30px;
+}
+
+nav{
+    display: inline-block;
+    width: 90%;
+    text-align: right;
+}
+
+body{
+    background-color: rgb(238, 238, 238);
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.links{
+    font-size: 20px; 
+    color: steelblue; 
+    text-decoration: none; 
+    margin: 10px;
+}
+
+.links:hover{
+    color: royalblue;
+}
+
+#Subtitulo1{
+    font-size: 40px;
+    color: rgb(55, 87, 192);
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    text-align: left;
+
+}
+
+section{
+    font-size: 17px; 
+    color: black; 
+    text-decoration: none; 
+    margin: 10px;
+    display: inline-block;
+    text-align: left;
+    width: 60%;
+    padding: 50px 10px;
+}
+
+#imagen1{
+    padding: 20px 10px 10px 40px;
+}
+
+#Subtitulo2{
+    font-size: 40px;
+    color: rgb(55, 87, 192);
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center ;
+    width: 100%;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    margin: 0px;
+
+
+}
+
+#imagen2{
+    padding: 30px 10px 10px 10px;
+}
+
+#p1{
+    font-size: 25px;
+    color: rgb(55, 87, 192);
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    text-align:center;
+    width: 100%;
+}
+
+#texto1{
+    font-size: 17px; 
+    color: black; 
+    text-decoration: none; 
+    display: inline-block;
+    width: 60%;
+}
+
+#imagen3{
+    padding: 30px 10px 10px 10px;
+}
+
+#imagen4{
+    padding: 30px 10px 10px 10px;
+}
+
+#texto2{
+    font-size: 17px; 
+    color: black; 
+    text-decoration: none; 
+    display: inline-block;
+    width: 60%;
+    padding: 10px 10px 30px 10px;
+}
+
+#Subtitulo3{
+    font-size: 40px;
+    color: rgb(55, 87, 192);
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center ;
+    width: 100%;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    margin: 0px;
+}
+
+#imagen5{
+    display: inline-block;
+    padding: 1px 10px 1px 40px;
+}
+
+#texto3{
+    font-size: 17px; 
+    color: black; 
+    text-decoration: none; 
+    margin: 10px;
+    display: inline-block;
+    text-align: left;
+    width: 60%;
+    padding: 50px 10px;
+}
+
+#imagen6{
+    display: inline-block;
+    padding: 20px 10px 10px 40px;
+}
+
+#icon{
+    padding: 20px 10px;
+}
